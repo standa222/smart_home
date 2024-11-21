@@ -1,0 +1,15 @@
+cz.cvut.fel.omo.smartHome
+cz.cvut.fel.omo.smartHome.exceptions
+cz.cvut.fel.omo.smartHome.model
+cz.cvut.fel.omo.smartHome.model.activity
+cz.cvut.fel.omo.smartHome.model.creature
+cz.cvut.fel.omo.smartHome.model.event
+cz.cvut.fel.omo.smartHome.model.house
+cz.cvut.fel.omo.smartHome.model.sensors
+cz.cvut.fel.omo.smartHome.model.usable
+cz.cvut.fel.omo.smartHome.model.usable.device
+cz.cvut.fel.omo.smartHome.model.usable.device.state
+cz.cvut.fel.omo.smartHome.model.usable.sport
+cz.cvut.fel.omo.smartHome.model.weatherStation
+cz.cvut.fel.omo.smartHome.reporter
+cz.cvut.fel.omo.smartHome.utils

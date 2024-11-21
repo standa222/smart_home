@@ -1,0 +1,332 @@
+{
+  "pricePerKWh": 4.99,
+  "creatures": [
+    {
+      "name": "Jacob",
+      "type": "Adult"
+    },
+    {
+      "name": "Oscar",
+      "type": "Adult"
+    },
+    {
+      "name": "Sophia",
+      "type": "Adult"
+    },
+    {
+      "name": "Olivia",
+      "type": "Adult"
+    },
+    {
+      "name": "Chuck",
+      "type": "Child"
+    },
+    {
+      "name": "Joseph",
+      "type": "Child"
+    },
+    {
+      "name": "Emma",
+      "type": "Baby"
+    },
+    {
+      "name": "Oreo",
+      "type": "Cat"
+    },
+    {
+      "name": "Henry",
+      "type": "Dog"
+    },
+    {
+      "name": "Scout",
+      "type": "Dog"
+    }
+  ],
+  "sportEquipment": ["Ski", "Bicycle", "Ski", "Bicycle"],
+  "floors": [
+    {
+      "name": "First floor",
+      "rooms": [
+        {
+          "name": "Living room",
+          "sensor": "Normal sensor",
+          "devices": ["TV", "Phone", "Laptop", "Light bulb"],
+          "activities": [
+            {
+              "type": "Creature",
+              "description": " is sleeping."
+            },
+            {
+              "type": "Adult",
+              "description": " is having a power nap on a sofa."
+            },
+            {
+              "type": "Child",
+              "description": " is bored to death."
+            },
+            {
+              "type": "Child",
+              "description": " is beat boxing."
+            },
+            {
+              "type": "Baby",
+              "description": " is hiding behind an armchair."
+            },
+            {
+              "type": "Cat",
+              "description": " is looking for a mouse behind the sofa."
+            },
+            {
+              "type": "Dog",
+              "description": " is rolling on a floor."
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "devices": ["Dish washer", "Fridge", "Light bulb", "Washing machine"],
+          "activities": [
+            {
+              "type": "Adult",
+              "description": " is making pan cakes."
+            },
+            {
+              "type": "Adult",
+              "description": " is trying a new recipe."
+            },
+            {
+              "type": "Child",
+              "description": " is trying a new recipe."
+            },
+            {
+              "type": "Child",
+              "description": " is making an apple pie."
+            },
+            {
+              "type": "Baby",
+              "description": " is lying on the countertop."
+            },
+            {
+              "type": "Cat",
+              "description": " is lying on the countertop."
+            },
+            {
+              "type": "Dog",
+              "description": " smells some food nearby."
+            },
+            {
+              "type": "Dog",
+              "description": " is barking happily."
+            },
+            {
+              "type": "Cat",
+              "description": " is meowing happily."
+            }
+          ]
+        },
+        {
+          "name": "Children's room",
+          "devices": ["Phone", "Laptop", "Phone", "TV"],
+          "sensor": "Crazy sensor",
+          "activities": [
+            {
+              "type": "Adult",
+              "description": " is tidying up."
+            },
+            {
+              "type": "Child",
+              "description": " is having a private party."
+            },
+            {
+              "type": "Child",
+              "description": " is eagerly reading a book about Design patterns."
+            },
+            {
+              "type": "Child",
+              "description": " is dreaming about being a member of Gang of Five."
+            },
+            {
+              "type": "Baby",
+              "description": " is playing with toys."
+            },
+            {
+              "type": "Cat",
+              "description": " is hiding under a bad."
+            },
+            {
+              "type": "Creature",
+              "description": " is sleeping."
+            },
+            {
+              "type": "Dog",
+              "description": " is hiding under a bad."
+            },
+            {
+              "type": "Cat",
+              "description": " is lying on a window ledge and looking out of the window."
+            }
+          ]
+        },
+        {
+          "name": "Garage",
+          "devices": ["Car"],
+          "sensor": "Crazy sensor",
+          "activities": [
+            {
+              "type": "Adult",
+              "description": " is working out."
+            },
+            {
+              "type": "Child",
+              "description": " is having a private party."
+            },
+            {
+              "type": "Baby",
+              "description": " is playing with a screwdriver."
+            },
+            {
+              "type": "Cat",
+              "description": " is looking for some mice."
+            },
+            {
+              "type": "Dog",
+              "description": " is running around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Second floor",
+      "rooms": [
+        {
+          "name": "Living room",
+          "devices": ["TV", "Phone", "Laptop"],
+          "activities": [
+            {
+              "type": "Creature",
+              "description": " is sleeping."
+            },
+            {
+              "type": "Adult",
+              "description": " is having a power nap on a sofa."
+            },
+            {
+              "type": "Child",
+              "description": " is bored to death."
+            },
+            {
+              "type": "Child",
+              "description": " is beat boxing."
+            },
+            {
+              "type": "Baby",
+              "description": " is hiding behind an armchair."
+            },
+            {
+              "type": "Cat",
+              "description": " is looking for a mouse behind the sofa."
+            },
+            {
+              "type": "Dog",
+              "description": " is rolling on a floor."
+            },
+            {
+              "type": "Cat",
+              "description": " is dreaming of becoming a dog."
+            },
+            {
+              "type": "Dog",
+              "description": " is dreaming of becoming a cat."
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "devices": ["Dish washer", "Fridge", "Light bulb", "Washing machine"],
+          "sensor": "Crazy sensor",
+          "activities": [
+            {
+              "type": "Adult",
+              "description": " is making pan cakes."
+            },
+            {
+              "type": "Adult",
+              "description": " is trying a new recipe."
+            },
+            {
+              "type": "Child",
+              "description": " is trying a new recipe."
+            },
+            {
+              "type": "Child",
+              "description": " is making an apple pie."
+            },
+            {
+              "type": "Baby",
+              "description": " is lying on the countertop."
+            },
+            {
+              "type": "Cat",
+              "description": " is lying on the countertop."
+            },
+            {
+              "type": "Dog",
+              "description": " smells some food nearby."
+            },
+            {
+              "type": "Dog",
+              "description": " is barking happily."
+            },
+            {
+              "type": "Cat",
+              "description": " is meowing happily."
+            }
+          ]
+        },
+        {
+          "name": "Children's room",
+          "devices": ["Phone", "Laptop", "Phone", "TV"],
+          "activities": [
+            {
+              "type": "Adult",
+              "description": " is tidying up."
+            },
+            {
+              "type": "Child",
+              "description": " is having a private party."
+            },
+            {
+              "type": "Child",
+              "description": " is eagerly reading a book about Design patterns."
+            },
+            {
+              "type": "Child",
+              "description": " is dreaming about being a member of Gang of Five."
+            },
+            {
+              "type": "Baby",
+              "description": " is playing with toys."
+            },
+            {
+              "type": "Cat",
+              "description": " is hiding under a bad."
+            },
+            {
+              "type": "Creature",
+              "description": " is sleeping."
+            },
+            {
+              "type": "Dog",
+              "description": " is hiding under a bad."
+            },
+            {
+              "type": "Cat",
+              "description": " is lying on a window ledge and looking out of the window."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
